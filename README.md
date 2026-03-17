@@ -1,7 +1,7 @@
 # 张謇学数字人文平台数据集 (Zhangjian Studies Digital Humanities Platform Dataset)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Version](https://img.shields.io/badge/version-1.0-blue)]()
+[![Version](https://img.shields.io/badge/version-2.0-blue)]()
 [![Records](https://img.shields.io/badge/records-23939-green)]()
 [![Update](https://img.shields.io/badge/update-daily-orange)]()
 
