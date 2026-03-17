@@ -1,0 +1,20 @@
+{
+  "resource_type": "报纸",
+  "total_records": 10,
+  "records": [
+    {
+      "id": "6482df9a7ad8f75c81319bef",
+      "title": "张謇反对袁世凯称帝",
+      "newspaper": "江海晚报",
+      "publish_date": "2013-07-25",
+      "section": "第07版：新闻"
+    },
+    {
+      "id": "6482df9a7ad8f75c81319bee",
+      "title": "扬州大学：张謇故居开讲师范生最后一课",
+      "newspaper": "江苏教育报",
+      "publish_date": "2014-06-06",
+      "section": "第A2版:综合新闻"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "resource_type": "图片",
+  "total_records": 10,
+  "records": [
+    {
+      "id": "65138c56e931911e2997e52b",
+      "title": "张謇全集",
+      "creator": "张謇",
+      "category": "城市记忆"
+    }
+  ]
+}

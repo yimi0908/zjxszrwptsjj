@@ -1,0 +1,13 @@
+{
+  "resource_type": "专利",
+  "total_records": 3,
+  "records": [
+    {
+      "id": "6797ef5780a9591c168c3fa0",
+      "title": "一种真空条件下使用的破块机",
+      "inventor": "金泽荣",
+      "patent_number": "CN222240596U",
+      "patent_type": "实用新型专利"
+    }
+  ]
+}

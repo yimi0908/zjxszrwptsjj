@@ -1,0 +1,452 @@
+{
+  "dataset_info": {
+    "name": "张謇学数据集",
+    "name_en": "Zhang Jian Studies Dataset",
+    "version": "1.0",
+    "update_date": "2025-01-15",
+    "description": "本数据集收录了关于张謇研究的学术文献资源，涵盖期刊、报纸、图书、学位论文、会议论文、图片、影音资源、专利等8种资源类型",
+    "resource_types": ["期刊", "报纸", "图书", "学位论文", "会议论文", "图片", "影音资源", "专利"],
+    "total_records": 50
+  },
+  "resources": [
+    {
+      "id": "6482e7387ad8f75c8131b668",
+      "resource_type": "期刊",
+      "language": "中文",
+      "title": "业绩不凡的"业余爱好"：读葛志华新著《从新农村到新国家》",
+      "author": "汪松明",
+      "journal": "江海纵横",
+      "year": "2008",
+      "issue": "第4期",
+      "pages": "58",
+      "issn": "",
+      "classification": "F272.9",
+      "keywords": ["业余爱好", "社会科学优秀成果奖", "新农村", "三农问题"],
+      "abstract": "葛志华是一位利用业余时间从事三农问题并在学术界有广泛影响的学者。1988年,他以《张謇与南通地方自治》一文获得历史学硕士学位。",
+      "author_unit": "南通大学",
+      "cover_url": "http://rtt.5read.com/coverNew/CoverNew.dll?iid=5145654269da161af337abd179dd5c12af9bbab819a518efcd41559e6c44621bc53786f95b3d4a0e3ae0a8e6296f620af5c1c62ebaaf8e38&v=2&p=150x235",
+      "access_paths": [
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=100170930939&datatype=1"}
+      ],
+      "category": ""
+    },
+    {
+      "id": "6482e7387ad8f75c8131b667",
+      "resource_type": "期刊",
+      "language": "中文",
+      "title": "张状元写对联摭谈",
+      "author": "郭继荣",
+      "journal": "江海纵横",
+      "year": "2005",
+      "issue": "第2期",
+      "pages": "42-43",
+      "issn": "",
+      "classification": "I269",
+      "keywords": ["张謇", "清朝末期", "对联", "生平事迹"],
+      "abstract": "乡贤状元公张謇先生，是我国清末民初杰出的实业家、教育家，同时又始终是一个热爱生活的读书人。他结合科举、游幕、生活、事业等具体实际，撰写了大量内容丰富、文彩斐然的诗文、词赋和对联。",
+      "author_unit": "南通市政协学习文史委员会",
+      "cover_url": "http://rtt.5read.com/coverNew/CoverNew.dll?iid=75eb8c66e0bd1bb7f337abd179dd5c12af9bbab819a518efcd41559e6c44621bc53786f95b3d4a0e3ae0a8e6296f620af5c1c62ebaaf8e38&v=2&p=150x235",
+      "access_paths": [
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=100166303889&datatype=1"}
+      ],
+      "category": ""
+    },
+    {
+      "id": "6482df9a7ad8f75c81319bef",
+      "resource_type": "报纸",
+      "language": "中文",
+      "title": "张謇反对袁世凯称帝",
+      "author": "",
+      "newspaper": "江海晚报",
+      "publish_date": "2013-07-25",
+      "section": "第07版：新闻",
+      "pages": "",
+      "keywords": [],
+      "abstract": "",
+      "cover_url": "/images/find/np.jpg",
+      "access_paths": [
+        {"avenue": "部分阅读", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=300215929841&datatype=13"},
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=300215929841&datatype=13"}
+      ]
+    },
+    {
+      "id": "6482df9a7ad8f75c81319bee",
+      "resource_type": "报纸",
+      "language": "中文",
+      "title": "扬州大学：张謇故居开讲师范生最后一课",
+      "author": "",
+      "newspaper": "江苏教育报",
+      "publish_date": "2014-06-06",
+      "section": "第A2版:综合新闻",
+      "pages": "",
+      "keywords": [],
+      "abstract": "",
+      "cover_url": "/images/find/np.jpg",
+      "access_paths": [
+        {"avenue": "部分阅读", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=300233008189&datatype=13"},
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=300233008189&datatype=13"}
+      ]
+    },
+    {
+      "id": "6409c95a1a977b39c9bdb725",
+      "resource_type": "报纸",
+      "language": "中文",
+      "title": ""张謇"号科考母船首航归来",
+      "author": "",
+      "newspaper": "潇湘晨报",
+      "publish_date": "2016-09-24",
+      "section": "(A07)：晨报天下",
+      "pages": "",
+      "keywords": [],
+      "abstract": "",
+      "cover_url": "/images/find/np.jpg",
+      "access_paths": [
+        {"avenue": "部分阅读", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=300325897763&datatype=13"},
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=300325897763&datatype=13"}
+      ]
+    },
+    {
+      "id": "652dfbf8d5cc2d4888a3cba4",
+      "resource_type": "图书",
+      "language": "中文",
+      "title": "清代诗文集汇编 625 朱九江先生集",
+      "author": "《清代诗文集汇编》编纂委员会编",
+      "publisher": "上海古籍出版社",
+      "publish_place": "上海",
+      "publish_date": "2010",
+      "isbn": "7-5325-5502-4",
+      "pages": "715页",
+      "series": "国家清史编纂委员会文献丛刊",
+      "subject": "古典诗歌-作品集-中国-清代-古典散文",
+      "clc_number": "I21",
+      "abstract": "《清代诗文集汇编》将清代近三百年间重要人物的诗文集悉数收入，凡生于明朝、入清后仍有较大影响，或卒于民国、在清末已有较大影响的作者，也酌情采录，堪称迄今规模最大的清代诗文著述的合集。",
+      "cover_url": "http://unicover.zhizhen.com/coverNew/CoverNew.dll?iid=b17bc59f6c8ea8a8cc25e56835ef3243d5ef2d70e60a3a214e1ed563bf7058c897df62f58abf339e89c39331a75ee416d8f5f904583772fabca6ca4c95e0cbe105de72ba6691cf3a&v=3",
+      "access_paths": [],
+      "category": "张謇友人"
+    },
+    {
+      "id": "652dfbac97301422c6302bd8",
+      "resource_type": "图书",
+      "language": "中文",
+      "title": "翁斌孙日记",
+      "author": "张剑，徐雁平，彭国忠主编；翁斌孙著；张剑整理",
+      "publisher": "凤凰出版社",
+      "publish_place": "南京",
+      "publish_date": "2015",
+      "isbn": "978-7-5506-2127-5",
+      "pages": "273页",
+      "series": "中国近现代稀见史料丛刊",
+      "subject": "翁斌孙（1860-1922）-日记",
+      "clc_number": "K825.4",
+      "abstract": "本书系中国近现代稀见史料丛刊第二辑之一种。翁斌孙(1860—1922)，字人豪，号韬夫，是常熟翁氏家族中一位承前启后的关键人物。本书整理以翁氏7册日记为主体，并附翁氏后人所编翁斌孙年谱、翁斌孙日记等。",
+      "cover_url": "http://unicover.zhizhen.com/coverNew/CoverNew.dll?iid=c0a47d681c17fa55f6765181dff15723f9d5de4ac8738173bf9a7ff863af83fcfd06a8fbb1a2bb6184380d1f764814ca6611436201a24f1338499dfe8cdf253879877421774db297&v=3",
+      "access_paths": [
+        {"avenue": "馆藏纸本资源", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=000015449263&datatype=11"}
+      ],
+      "category": "张謇友人"
+    },
+    {
+      "id": "67f4cfce91e50e438b8f6220",
+      "resource_type": "图书",
+      "language": "中文",
+      "title": "楚辞",
+      "author": "周建忠，贾捷注评",
+      "publisher": "凤凰出版社",
+      "publish_place": "南京",
+      "publish_date": "2009",
+      "isbn": "978-7-80729-435-1",
+      "pages": "219",
+      "series": "历代名著精选",
+      "subject": "古典诗歌-作品集-中国-战国时代",
+      "clc_number": "I222.3",
+      "abstract": "本书是以屈原辞赋为主体以及宋玉以下汉人伤悼屈原、以事名篇的拟骚辞赋或骚体赋的总集。与《诗经》并称，运用楚地的文学样式、方言声韵，是古代诗歌创作的典范。",
+      "cover_url": "http://unicover.zhizhen.com/coverNew/CoverNew.dll?iid=c031f7ea3ceddd7e15251ff1a97bdbfb2fc22e63191250a04e5c7f3003d00eaa147799478a9489a50f79e622d465a1d70e2360d1c62c140d86c0b43a5164ec4092465d964555157f&v=3",
+      "access_paths": [
+        {"avenue": "馆藏纸本资源", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=000006772404&datatype=11"}
+      ],
+      "category": ""
+    },
+    {
+      "id": "6482d6707ad8f75c81315361",
+      "resource_type": "学位论文",
+      "language": "中文",
+      "title": "张謇语文教育思想研究",
+      "author": "崔益芹",
+      "advisor": "曹明升",
+      "degree": "硕士",
+      "university": "扬州大学",
+      "year": "2018",
+      "clc_number": "G633.3",
+      "keywords": [],
+      "abstract": "",
+      "cover_url": "/images/find/thesis.jpg",
+      "access_paths": [
+        {"avenue": "CNKI(包库)", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=390107212275&datatype=3"},
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=390107212275&datatype=3"}
+      ]
+    },
+    {
+      "id": "6482d6707ad8f75c8131535e",
+      "resource_type": "学位论文",
+      "language": "中文",
+      "title": "试论张謇与朝鲜及其对朝认识",
+      "author": "石惠",
+      "advisor": "方民镐",
+      "degree": "硕士",
+      "university": "延边大学",
+      "year": "2020",
+      "clc_number": "K256",
+      "keywords": [],
+      "abstract": "",
+      "cover_url": "/images/find/thesis.jpg",
+      "access_paths": [
+        {"avenue": "CNKI(包库)", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=390108230599&datatype=3"},
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=390108230599&datatype=3"}
+      ]
+    },
+    {
+      "id": "6482d7327ad8f75c813157ec",
+      "resource_type": "学位论文",
+      "language": "中文",
+      "title": "论张謇主要经济思想及实践",
+      "author": "武萍",
+      "advisor": "张守军",
+      "degree": "硕士",
+      "university": "东北财经大学",
+      "year": "2007",
+      "clc_number": "F092.6",
+      "keywords": ["实业救国", "棉铁主义", "教育救国", "民本思想"],
+      "abstract": "张謇(1853-1926)，字季直，号啬庵，祖籍南通，1853年7月1日生于江苏海门常乐镇一个富裕农民兼小商人家庭，是中国近代著名的状元实业家，也是立宪运动的主要代表人物之一。",
+      "cover_url": "/images/find/thesis.jpg",
+      "access_paths": [
+        {"avenue": "CNKI(包库)", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=390101238491&datatype=3"},
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=390101238491&datatype=3"}
+      ]
+    },
+    {
+      "id": "6482e5fb7ad8f75c8131b436",
+      "resource_type": "会议论文",
+      "language": "中文",
+      "title": "序言",
+      "author": "龚良",
+      "conference_name": "江苏省博物馆学会2012学术年会",
+      "year": "2012",
+      "pages": "",
+      "publisher": "江苏省博物馆学会；南京博物院",
+      "clc_number": "G269.2",
+      "keywords": [],
+      "abstract": "100多年前,张謇先生创办了南通博物苑;70多年前,蔡元培先生倡议建立了中国第一个国立博物馆——中央博物院(南京博物院的前身)。这是江苏文博事业的开始,中国博物馆事业的开始。",
+      "cover_url": "/images/find/cp.jpg",
+      "access_paths": [
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=330102968764&datatype=4"},
+        {"avenue": "万方(包库)", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=330102968764&datatype=4"}
+      ]
+    },
+    {
+      "id": "6482e5b37ad8f75c8131b425",
+      "resource_type": "会议论文",
+      "language": "中文",
+      "title": "唐闸近代工业城镇的保护与发展初探",
+      "author": "刘凌",
+      "conference_name": "城市时代，协同规划——2013中国城市规划年会",
+      "year": "2013",
+      "pages": "",
+      "publisher": "东南大学建筑学院；东南大学建筑设计研究院有限公司",
+      "clc_number": "TU984.1",
+      "keywords": ["近代工业城镇", "保护", "城市更新", "转型", "发展"],
+      "abstract": "唐闸是中国近代民族工业的主要发源地之一,是清末状元张謇实践社会理想、推进南通近代工业化和早期现代化转型的重要基地。",
+      "cover_url": "/images/find/cp.jpg",
+      "access_paths": [
+        {"avenue": "万方(包库)", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=330105739441&datatype=4"},
+        {"avenue": "cnki国内会议(包库)", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=330105739441&datatype=4&sid=2"}
+      ]
+    },
+    {
+      "id": "6482e8787ad8f75c8131bcb4",
+      "resource_type": "会议论文",
+      "language": "中文",
+      "title": "张謇成败辩证观",
+      "author": "王敦琴",
+      "conference_name": "2006年江苏省哲学社会科学界学术大会",
+      "year": "2006",
+      "pages": "",
+      "publisher": "南通大学文学院",
+      "clc_number": "K258",
+      "keywords": [],
+      "abstract": "胡适在张孝若《南通张季直先生传记》的序言中写道:张季直先生在近代中国史上是一个很伟大的失败的英雄,这是谁都不能否认的。",
+      "cover_url": "/images/find/cp.jpg",
+      "category": "张謇友人",
+      "access_paths": [
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=330102433491&datatype=4"}
+      ]
+    },
+    {
+      "id": "65138c56e931911e2997e52b",
+      "resource_type": "图片",
+      "language": "中文",
+      "title": "张謇全集",
+      "creator": "张謇",
+      "description": "《张謇全集》【全七卷（八册）】第一卷/公文 第二卷/函电（上）（下）第三卷/论说 演说 第四卷/章程 规约 告启 说略 帐略 第五卷/艺文杂著 第六卷/诗词 联语 第七卷/柳西草堂日记 啬翁自订年谱",
+      "create_date": "",
+      "image_url": "https://workspace-zb-cdn.quark.cn/zhangjian-collection.jpg",
+      "thumbnail_url": "",
+      "keywords": ["张謇", "全集"],
+      "category": "城市记忆",
+      "watermark_images": [
+        {"watermark_name": "张謇全集_水印图.jpg", "origin_name": "张謇全集.jpg", "status": "1000"}
+      ]
+    },
+    {
+      "id": "65138a79e931911e2997e51a",
+      "resource_type": "图片",
+      "language": "中文",
+      "title": "张季子九录",
+      "creator": "张謇",
+      "description": "张謇是中国近代著名的实业家、教育家、政治家，他一生著述甚丰，涉及到政治、经济、文化、社会事业等诸多方面，总计数百万言。张謇生前很注意自己著述的收集整理，曾拟将诗文分为政闻录、实业录、教育录、自治录、慈善录、文录、诗录、专录、外录九个部分集结印行。",
+      "create_date": "1932",
+      "image_url": "https://workspace-zb-cdn.quark.cn/zhangjizi-jiulu.jpg",
+      "thumbnail_url": "",
+      "keywords": ["张謇", "张季子九录"],
+      "category": "城市记忆",
+      "watermark_images": [
+        {"watermark_name": "张季子九录_水印图.jpg", "origin_name": "张季子九录.jpg", "status": "1000"}
+      ]
+    },
+    {
+      "id": "650a3c0f1214f66ebb06775e",
+      "resource_type": "图片",
+      "language": "中文",
+      "title": "张謇邀请苏社成员在南通博物苑中馆前合影",
+      "creator": "未知",
+      "description": "张謇（后排右三）邀请苏社成员在南通博物苑中馆前合影。1905年，张謇任上海震旦学院院董，江苏教育会会长。创建南通博物苑。",
+      "create_date": "1905",
+      "image_url": "https://workspace-zb-cdn.quark.cn/zhangjian-group-photo.jpg",
+      "thumbnail_url": "",
+      "keywords": ["张謇", "合影", "南通博物苑"],
+      "category": "城市记忆"
+    },
+    {
+      "id": "650a39d21214f66ebb06775a",
+      "resource_type": "图片",
+      "language": "中文",
+      "title": "张謇殿试策",
+      "creator": "未知",
+      "description": "经过3场礼部会试，张謇取中第60名贡士，礼部复试取中一等第10名。在翁同龢等阅卷大臣的扶掖下，张謇通过殿试终于在41岁状元及第，大器晚成的张謇被授予翰林院修撰。",
+      "create_date": "1894",
+      "image_url": "https://workspace-zb-cdn.quark.cn/zhangjian-dianshi.jpg",
+      "thumbnail_url": "",
+      "keywords": ["张謇", "殿试", "状元"],
+      "category": "城市记忆"
+    },
+    {
+      "id": "64bdae41c3dec679bdf45da7",
+      "resource_type": "影音资源",
+      "language": "中文",
+      "title": "办厂兴学的状元郎——张謇02愿做有用之事",
+      "creator": "新蕾出版社",
+      "media_type": "音频",
+      "duration": "",
+      "publish_date": "2021",
+      "description": "为迎接中国共产党成立100周年，全国妇联家庭和儿童工作部、中国妇女儿童博物馆策划组织，新蕾出版社倾力打造的大型家风家教公益融媒体项目"家风故事汇"。",
+      "media_url": "http://imgopen.xmcdn.com/storages/e8ca-audiofreehighqps/40/5D/CMCoOSMDzZ0hAAJnewB5b583.jpeg",
+      "keywords": ["张謇", "家风故事"],
+      "cover_url": "http://imgopen.xmcdn.com/storages/e8ca-audiofreehighqps/40/5D/CMCoOSMDzZ0hAAJnewB5b583.jpeg!op_type=3&columns=640&rows=640"
+    },
+    {
+      "id": "6482e1ef7ad8f75c8131a740",
+      "resource_type": "影音资源",
+      "language": "中文",
+      "title": "南通-张謇—光荣与梦想",
+      "creator": "解说",
+      "media_type": "视频",
+      "duration": "",
+      "publish_date": "2014",
+      "description": "南通是个充满现代气息的城市，像所有的中国城市一样，她高楼林立，车来人往。在这座现代城市的中心，南通人为一位晚清的状元塑起了一座雕像。因为正是他在上个世纪初，在中华大地的风雨飘摇中，引领南通这个长江之畔不算太知名的小城跨入了近代工业，这个人就是张謇。",
+      "media_url": "http://www.wsbgt.com/ADKSDATA/VideoCaptures/Vod_48226.jpeg",
+      "keywords": ["南通", "张謇", "光荣与梦想"],
+      "subject": ["学术鉴赏", "旅游地理", "著名景点"],
+      "cover_url": "http://www.wsbgt.com/ADKSDATA/VideoCaptures/Vod_48226.jpeg"
+    },
+    {
+      "id": "66f9b9874a076b02c5e540bc",
+      "resource_type": "影音资源",
+      "language": "中文",
+      "title": "张謇的传奇人生",
+      "creator": "羌建，蔡志新，徐静玉，石静，张若愚",
+      "media_type": "视频课程",
+      "duration": "",
+      "publish_date": "",
+      "description": "张謇先生是中国早期现代化的先驱。综观其一生，思想丰富，事业极为庞大，在众多领域都有重大建树，作出过杰出贡献，还曾创造过多个全国第一。毛泽东、江泽民等党和国家的历届领导人都对张謇有过极高的评价。",
+      "media_url": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/f4ace893f9241b8d83d744026adf1aa7.jpg",
+      "keywords": ["张謇", "传奇人生", "慕课"],
+      "cover_url": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/f4ace893f9241b8d83d744026adf1aa7.jpg"
+    },
+    {
+      "id": "6797ef5780a9591c168c3fa0",
+      "resource_type": "专利",
+      "language": "中文",
+      "title": "一种真空条件下使用的破块机",
+      "inventor": "金泽荣",
+      "applicant": "上海博隆装备技术股份有限公司",
+      "patent_number": "CN222240596U",
+      "application_number": "202323263811.4",
+      "publication_date": "2024-12-27",
+      "application_year": "2023",
+      "patent_type": "实用新型专利",
+      "address": "201708 上海市青浦区华新镇新协路1356号",
+      "abstract": "本实用新型涉及破块机技术领域，特别涉及一种真空条件下使用的破块机，包括减速电机、机壳、静刀座、破块刀、传动轴，所述减速电机与传动轴相连，所述传动轴自机壳与静刀座中穿过，所述破块刀安装于传动轴上，破块刀两侧的所述传动轴外套有第一密封隔套和第二密封隔套。本实用新型采用三道紧压式密封结构，层层推进，能有效防止污染气体渗漏及进入破块腔内部。",
+      "keywords": [],
+      "clc_number": "",
+      "cover_url": "/images/find/patent.jpg",
+      "category": "张謇友人",
+      "access_paths": [
+        {"avenue": "innojoy专利(包库)", "url": "http://ss.zhizhen.com/goread?aid=1721&dxid=166056121271&datatype=10"},
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=166056121271&datatype=10"}
+      ]
+    },
+    {
+      "id": "66d4dd3e7704696a6307000d",
+      "resource_type": "专利",
+      "language": "中文",
+      "title": "显示装置的老化方法",
+      "inventor": "金忠化，金泽荣，申智安，金勳泰，徐源珍，李镕俊",
+      "applicant": "三星显示有限公司",
+      "patent_number": "CN118471103A",
+      "application_number": "202410154291.3",
+      "publication_date": "2024-08-09",
+      "application_year": "2024",
+      "patent_type": "发明专利",
+      "address": "韩国京畿道龙仁市",
+      "abstract": "一种显示装置的老化方法，包括如下步骤：将包括多个像素的显示装置放入老化腔室；使显示装置达到预设定的条件；感测多个像素中的每一个；补偿多个像素中的每一个；以及进行显示装置的老化。",
+      "keywords": [],
+      "clc_number": "",
+      "cover_url": "/images/find/patent.jpg",
+      "category": "张謇友人",
+      "access_paths": [
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst?dxid=166054334202&datatype=10"}
+      ]
+    },
+    {
+      "id": "6681bf032c9ef90beab27d80",
+      "resource_type": "专利",
+      "language": "中文",
+      "title": "一种仿真恐龙的上下颚可开合装置",
+      "inventor": "周家禄",
+      "applicant": "自贡华龙科技有限公司",
+      "patent_number": "CN221040331U",
+      "application_number": "202322794484.9",
+      "publication_date": "2024-05-28",
+      "application_year": "2023",
+      "patent_type": "实用新型专利",
+      "address": "643000 四川省自贡市汇东板仓工业园区办公楼三楼",
+      "abstract": "本申请提供了一种仿真恐龙的上下颚可开合装置，包括固定板，固定板侧壁开设有第一滑动槽和第二滑动槽，固定板侧壁通过第一滑动槽滑动连接有第一转动轴，固定板侧壁通过第二滑动槽滑动连接有第二转动轴，固定板侧壁连接有用于调节上下颚开合大小的开口部件，固定板内壁连接有用于提高恐龙趣味性的抖动部件。",
+      "keywords": [],
+      "clc_number": "",
+      "cover_url": "/images/find/patent.jpg",
+      "category": "张謇友人",
+      "access_paths": [
+        {"avenue": "文献传递", "url": "http://ss.zhizhen.com/gofirst"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "resource_type": "影音资源",
+  "total_records": 8,
+  "records": [
+    {
+      "id": "64bdae41c3dec679bdf45da7",
+      "title": "办厂兴学的状元郎——张謇02愿做有用之事",
+      "creator": "新蕾出版社",
+      "media_type": "音频",
+      "publish_date": "2021"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "resource_type": "学位论文",
+  "total_records": 5,
+  "records": [
+    {
+      "id": "6482d6707ad8f75c81315361",
+      "title": "张謇语文教育思想研究",
+      "author": "崔益芹",
+      "degree": "硕士",
+      "university": "扬州大学",
+      "year": "2018"
+    }
+  ]
+}

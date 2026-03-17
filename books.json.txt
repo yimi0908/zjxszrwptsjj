@@ -1,0 +1,14 @@
+{
+  "resource_type": "图书",
+  "total_records": 6,
+  "records": [
+    {
+      "id": "652dfbf8d5cc2d4888a3cba4",
+      "title": "清代诗文集汇编 625 朱九江先生集",
+      "author": "《清代诗文集汇编》编纂委员会编",
+      "publisher": "上海古籍出版社",
+      "publish_date": "2010",
+      "isbn": "7-5325-5502-4"
+    }
+  ]
+}

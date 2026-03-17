@@ -1,0 +1,13 @@
+{
+  "resource_type": "会议论文",
+  "total_records": 6,
+  "records": [
+    {
+      "id": "6482e5fb7ad8f75c8131b436",
+      "title": "序言",
+      "author": "龚良",
+      "conference_name": "江苏省博物馆学会2012学术年会",
+      "year": "2012"
+    }
+  ]
+}

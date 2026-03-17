@@ -1,0 +1,26 @@
+{
+  "resource_type": "期刊",
+  "total_records": 8,
+  "records": [
+    {
+      "id": "6482e7387ad8f75c8131b668",
+      "title": "业绩不凡的"业余爱好"：读葛志华新著《从新农村到新国家》",
+      "author": "汪松明",
+      "journal": "江海纵横",
+      "year": "2008",
+      "issue": "第4期",
+      "pages": "58",
+      "classification": "F272.9"
+    },
+    {
+      "id": "6482e7387ad8f75c8131b667",
+      "title": "张状元写对联摭谈",
+      "author": "郭继荣",
+      "journal": "江海纵横",
+      "year": "2005",
+      "issue": "第2期",
+      "pages": "42-43",
+      "classification": "I269"
+    }
+  ]
+}

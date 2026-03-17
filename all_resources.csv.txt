@@ -1,0 +1,9 @@
+id,resource_type,language,title,author,journal,newspaper,publisher,university,conference_name,year,issue,pages,isbn,patent_number,keywords,abstract,cover_url
+6482e7387ad8f75c8131b668,期刊，中文，业绩不凡的"业余爱好"：读葛志华新著《从新农村到新国家》,汪松明，江海纵横,,,,,2008，第4期，58,,,"业余爱好,社会科学优秀成果奖,新农村",葛志华是一位利用业余时间从事三农问题并在学术界有广泛影响的学者,http://rtt.5read.com/coverNew/CoverNew.dll?iid=5145654269da161af337abd179dd5c12af9bbab819a518efcd41559e6c44621bc53786f95b3d4a0e3ae0a8e6296f620af5c1c62ebaaf8e38&v=2&p=150x235
+6482df9a7ad8f75c81319bef,报纸，中文，张謇反对袁世凯称帝,,江海晚报,,,2013-07-25,,,/images/find/np.jpg
+652dfbf8d5cc2d4888a3cba4,图书，中文，清代诗文集汇编 625 朱九江先生集，《清代诗文集汇编》编纂委员会编,,,上海古籍出版社,,2010,,,7-5325-5502-4,,《清代诗文集汇编》将清代近三百年间重要人物的诗文集悉数收入,http://unicover.zhizhen.com/coverNew/CoverNew.dll?iid=b17bc59f6c8ea8a8cc25e56835ef3243d5ef2d70e60a3a214e1ed563bf7058c897df62f58abf339e89c39331a75ee416d8f5f904583772fabca6ca4c95e0cbe105de72ba6691cf3a&v=3
+6482d6707ad8f75c81315361,学位论文，中文，张謇语文教育思想研究，崔益芹,,,,扬州大学,,2018,,,,,/images/find/thesis.jpg
+6482e5fb7ad8f75c8131b436,会议论文，中文，序言，龚良,,,,,江苏省博物馆学会2012学术年会，2012,,,,,100多年前，张謇先生创办了南通博物苑,/images/find/cp.jpg
+65138c56e931911e2997e52b，图片，中文，张謇全集，张謇,,,,,,,,,,https://workspace-zb-cdn.quark.cn/zhangjian-collection.jpg
+64bdae41c3dec679bdf45da7，影音资源，中文，办厂兴学的状元郎——张謇02愿做有用之事，新蕾出版社,,,,,,,,2021,,,http://imgopen.xmcdn.com/storages/e8ca-audiofreehighqps/40/5D/CMCoOSMDzZ0hAAJnewB5b583.jpeg!op_type=3&columns=640&rows=640
+6797ef5780a9591c168c3fa0，专利，中文，一种真空条件下使用的破块机，金泽荣,,,,,,,,2023,,CN222240596U,本实用新型涉及破块机技术领域,/images/find/patent.jpg
